@@ -19,7 +19,7 @@ public class Hello
 		System.out.println("||\\ - /||");
 		System.out.println("||  +  ||");
 		System.out.println(" )      (");
-		//System.out.print("6th Period Drools!");
+		//System.out.print("Darin Korn was here!");
 	}
 
 }
